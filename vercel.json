@@ -1,0 +1,8 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    { "source": "/projects", "destination": "/experience/", "permanent": true },
+    { "source": "/interviews", "destination": "/media/", "permanent": true },
+    { "source": "/blog", "destination": "https://substack.com/@gabycaballero", "permanent": false }
+  ]
+}

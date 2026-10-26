@@ -1,0 +1,34 @@
+# Gabriela Caballero
+
+> Technical Product Manager at Google, based in Zurich, Switzerland. Works on AI Foundations: the retrieval and context systems that ground AI products in information.
+
+"I solve complex information challenges and build delightful AI experiences by bridging deep technical strategy with user-centric design."
+
+## Experience
+
+- Google, AI Foundations — Product Manager, Zurich (Oct 2026–present): retrieval and context systems for AI.
+- Google, YouTube Shopping — Product Manager, Zurich (Mar 2024–Oct 2026): product detection with Gemini-based multimodal models (AI precision 11% → 35.5%), Interactive TV Shopping (+6000% product engagement on TV), auto-timestamps.
+- Google Sheets — Product Manager, London (Jul 2022–Mar 2024): led Tables in Google Sheets from 0 to 1, Conditional Notifications, Apps Script & GenAI strategy.
+- Google Maps — Associate Product Manager, New York (Aug 2019–Oct 2022): Maps visual search, Street View 15th anniversary (6M+ opt-ins, 16M+ virtual trips).
+- Globant — Tech Lead for Disney Parks, Córdoba: team of 6, Java/Spring.
+- Intel McAfee — internal IoT monitoring site (Angular).
+- Girls Who Code — lead instructor.
+
+## Education
+
+- MS in Management of Technology, New York University — Fulbright Scholar; MoT Capstone award.
+- BS in Systems Engineering, Universidad Tecnológica Nacional (UTN-FRC), Córdoba, Argentina.
+
+## Pages
+
+- [About](https://gabrielacaballero.com/): bio, mission and vision.
+- [Experience](https://gabrielacaballero.com/experience/): full career timeline with projects and press.
+- [Media](https://gabrielacaballero.com/media/): interviews, talks and panels (English and Spanish).
+- [Contact](https://gabrielacaballero.com/contact/): social channels and anonymous feedback form.
+
+## Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/gabrielacaballero/)
+- [Substack](https://substack.com/@gabycaballero)
+- [YouTube](https://www.youtube.com/channel/UCnZPgwSbAoaFxDB_sAUzv8A)
+- [Instagram](https://www.instagram.com/gabrielacaballer/)
