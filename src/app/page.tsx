@@ -31,8 +31,9 @@ export default function AboutPage() {
             <p className="max-w-lg text-lg leading-relaxed text-muted-foreground">{TAGLINE}</p>
 
             <p className="max-w-lg text-muted-foreground">
-              Today I work on AI Foundations at Google. Before that I made millions of YouTube videos shoppable,
-              brought Tables to Google Sheets, and helped people discover places on Google Maps.{" "}
+              Today I lead product strategy for Context &amp; Retrieval in Google&apos;s AI Foundations. Before that I
+              made millions of YouTube videos shoppable, brought Tables to Google Sheets, and taught Google Maps to
+              read the world through Street View.{" "}
               <Link href="/experience" className="text-primary underline-offset-4 hover:underline">
                 See the flight path →
               </Link>

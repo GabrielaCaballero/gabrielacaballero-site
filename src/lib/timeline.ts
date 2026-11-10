@@ -22,42 +22,57 @@ export const TIMELINE: Era[] = [
     flag: "🇨🇭",
     location: "Zurich, Switzerland",
     period: "March 2024 – Present",
-    role: "Product Manager · AI Foundations (prev. YouTube Shopping)",
+    role: "Product Manager · Context & Retrieval, AI Foundations (prev. YouTube Shopping)",
     summary:
-      "Since October 2026, working on AI Foundations at Google — the retrieval and context systems that ground AI products in information. Before that, gave AI 'world-sensing' capabilities to make millions of videos shoppable: led the Product Detection Model and multimodal classifiers using Gemini-based models, and launched Interactive TV Shopping.",
+      "Since October 2026, driving product strategy for Google's distributed hybrid and vector retrieval platform, which grounds Google Search AI experiences, Gemini and Cloud. Before that, made millions of YouTube videos shoppable with multimodal AI built alongside Google DeepMind, and brought shopping to the living room on Connected TV.",
     achievements: [
-      "Expanded the shopping videos corpus by 13% and grew AI precision from 11% to 35.5%.",
-      "11.5% lift in user engagement through improved detection models.",
-      "Launched Interactive TV Shopping: +6000% engagement on products on TV.",
-      "Solved the design challenge of making shopping feel natural on lean-back TV devices.",
+      "YouTube 'Ask' shopping companion: launched on Mobile and Web with >97% answer precision and +2% qualified offer clicks.",
+      "Expanded the shoppable video corpus by 13% and scaled visual retrieval across 30x more videos with DeepMind.",
+      "Gemini auto-timestamping: more than doubled timestamped product coverage, +5.1% offer clicks.",
+      "Connected TV commerce: interactive product overlays (+11.5% engagement), Add to Cart and Quick Buy.",
     ],
     personal:
       "Living in Zurich has made her appreciate nature more — she actually takes pictures of cows and flowers now! She spends her time running, exploring the mountains, swimming in the lake during summer, and indulging in plenty of local cheese and chocolate.",
     projects: [
       {
-        name: "AI Foundations: Retrieval & Context",
+        name: "Next-Gen AI Retrieval & Context Platform",
         details:
-          "Building the retrieval and context infrastructure that helps AI systems find and serve the right information.",
+          "Product strategy for a hybrid and vector retrieval platform serving tens of millions of QPS at millisecond latency, bridging low-latency indices with modular RAG building blocks, query-side embedding adaptation, long-context LLM memory and personal context.",
       },
       {
-        name: "Next-Gen Video Understanding",
+        name: "AI Ecosystem Strategy & Agentic Tooling",
         details:
-          "Set the vision and strategy for the next generation of video understanding models: redefining the shopping video classifier, overhauling evaluation frameworks, and modernizing the underlying technology to scale detection.",
+          "Competitive cloud retrieval benchmarking and developer friction analysis across internal AI clients; built agentic PM workflows for developer support synthesis and interactive system architecture mapping.",
       },
       {
-        name: "Proprietary Product Detection",
+        name: "Conversational AI Shopping Companion (YouTube 'Ask')",
         details:
-          "Led the evolution of proprietary product detection models by refining core definitions and evals, integrating Gemini and state-of-the-art visual-language models for higher precision and contextual relevance.",
+          "Authored the 0-to-1 strategy turning YouTube's Gemini-powered video Q&A into a Shopping Graph-grounded assistant. Built SQL and Python/Gemini API classifiers to size high-intent shopping demand; >97% answer precision, +2% qualified offer clicks, neutral watch time.",
       },
       {
-        name: "Timed Shopping Experiences",
+        name: "Multimodal Video Understanding (with Google DeepMind)",
         details:
-          "Launched the Shopping Timely Shelf on mobile (44.4% dismissal reduction) and a first-of-its-kind timed experience on TV, driving a +6000% lift in engagement.",
+          "Partnered with DeepMind researchers on video classification and visual product detection: +13% shoppable corpus and visual retrieval across 30x more videos (>3x coverage at high precision).",
       },
       {
-        name: "ML Roadmap: Timestamps v2",
+        name: "Gemini Auto-Timestamping & Evaluations",
         details:
-          "Presented the auto-timestamps strategy to VPs. Increased product tag adoption from 4% to 10%+, resulting in a +5.14% lift in offer clicks.",
+          "Matched products to exact video moments, more than doubling timestamped coverage (+5.1% offer clicks). Redesigned ground-truth evals combining audio and visual context; model tags beat manual creator tags 2.2x.",
+      },
+      {
+        name: "Connected TV Commerce & Checkout",
+        details:
+          "Authored the multi-year TV commerce strategy; launched 10-foot vertical product overlays (+11.5% engagement) and led cross-device Add to Cart and Quick Buy checkout.",
+      },
+      {
+        name: "Dynamic Mobile Product Overlays",
+        details:
+          "Defined UX and ML triggering across 7+ experiments, cutting banner dismissals by 44% while lifting qualified offer clicks +1.6%.",
+      },
+      {
+        name: "Gemini Financial Reasoning Evals (20% project)",
+        details:
+          "Built an end-to-end benchmark suite diagnosing Gemini reasoning gaps on complex enterprise finance scenarios.",
       },
     ],
     press: [
@@ -86,9 +101,9 @@ export const TIMELINE: Era[] = [
     summary:
       "0-to-1 product design: spearheaded Tables in Google Sheets, a fundamental shift from 'cells' to 'structured objects' for billions of users.",
     achievements: [
-      "+35% increase in user retention for data-heavy workflows.",
-      "Navigated the tension between advanced functionality and clean, intuitive UI.",
-      "Laid the foundation structure for Sheets AI features.",
+      "Sheets Tables: 50% user adoption and +5% North Star metric lift.",
+      "Conditional Notifications became Workspace's foundational pattern for automated and agentic workflows.",
+      "Defined the multi-quarter roadmap modernizing analytical workflows for enterprise data analysts.",
     ],
     personal:
       "As a Harry Potter fan, she fell in love with London life — West End shows, Italian pasta, and running through the parks. She especially enjoyed \"smelly pubs\" with excellent beer and the heavenly cream the British put on their scones at tea time.",
@@ -96,17 +111,17 @@ export const TIMELINE: Era[] = [
       {
         name: "Tables in Google Sheets",
         details:
-          "Led end-to-end product development of Tables from concept to launch. Managed a team of 15+ engineers with a hypothesis-driven approach, resulting in a 5% increase in the north-star metric.",
+          "Co-led the product vision and PRD turning unstructured grids into structured Tables with a 15+ engineer team, shipping core building blocks and table controls (50% adoption, +5% North Star).",
       },
       {
         name: "Conditional Notifications",
         details:
-          "Defined the strategy and led execution for Sheets Conditional Notifications: 90% email open rate and 80% user satisfaction.",
+          "Led strategy and launch, resolving security, group-ownership and data-governance constraints. 90% email open rate and 80% user satisfaction.",
       },
       {
-        name: "Apps Script & GenAI",
+        name: "Enterprise Data Analytics Strategy",
         details:
-          "Led strategy and roadmap for Apps Script, focused on bringing generative AI into the automation platform.",
+          "Defined the multi-quarter product roadmap modernizing core analytical workflows in Google Sheets for enterprise data analysts.",
       },
     ],
     press: [
@@ -129,12 +144,13 @@ export const TIMELINE: Era[] = [
     id: "nyc",
     flag: "🇺🇸",
     location: "New York City, USA",
-    period: "Aug 2019 – Oct 2022",
+    period: "Aug 2019 – July 2022",
     role: "APM · Google Maps & NYU Fulbright Scholar",
     summary:
-      "Used AI for personalization and user growth. Owned the strategy for improving semantic search results using user-generated content and visual-first results on Google Maps.",
+      "Fulbright Scholar at NYU, APM intern on Google Docs (2020), then Associate Product Manager on Google Maps (2021–2022): used computer vision to extract structured real-world attributes from Street View imagery and grew Maps internationally.",
     achievements: [
-      "Increased search results interaction by 5% and decreased manual refinements by 20%.",
+      "Secured VP alignment for Maps Visual Search: computer vision on Street View imagery.",
+      "India Language Picker launch: +12% regional monthly active users in two months.",
       "MS in Management of Technology at NYU: 3.9 GPA.",
       "Data Researcher at the NYU Furman Center: reduced processing times by 20%.",
     ],
@@ -144,7 +160,7 @@ export const TIMELINE: Era[] = [
       {
         name: "Maps Visual Search",
         details:
-          "Launched a Language Picker promo in India (+12% MAU) and a new ML photo carousel for services 'menus' with a 20% interaction rate and a 2–5% lift in core metrics.",
+          "Shipped ML photo classification surfacing local business service menus (20% interaction rate, +2.3% place-sheet engagement) and the India Language Picker (+12% MAU).",
       },
       {
         name: "Street View 15th Anniversary",
@@ -159,7 +175,7 @@ export const TIMELINE: Era[] = [
       {
         name: "Research Innovation Award",
         details:
-          "Won the MoT Capstone award for a computer-vision project using AI to count street traffic. Led 4 Design for America social projects.",
+          "Selected 1st among 25+ corporate capstone teams for computer vision with NYC DOT to detect street traffic. Led 4 Design for America social-impact teams.",
       },
     ],
     press: [
@@ -186,7 +202,7 @@ export const TIMELINE: Era[] = [
     role: "Systems Engineer & Fulbright Scholar",
     summary: "Winning the Fulbright scholarship and technical leadership at Disney Parks.",
     achievements: [
-      "Fulbright Scholar: selected nationwide.",
+      "Fulbright Scholar: 1 of 10 selected from 500 candidates; Argentina's Bicentennial Scholarship.",
       "Tech Lead for Disney Parks at Globant: managed a team of 6.",
       "BS in Systems Engineering at UTN-FRC: 9.22/10 GPA.",
       "Girls Who Code: taught 15 young women.",

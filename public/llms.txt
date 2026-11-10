@@ -1,23 +1,26 @@
 # Gabriela Caballero
 
-> Technical Product Manager at Google, based in Zurich, Switzerland. Works on AI Foundations: the retrieval and context systems that ground AI products in information.
+> Technical AI Product Manager at Google, based in Zurich, Switzerland. Leads product strategy for Context & Retrieval in Google AI Foundations: the hybrid and vector retrieval platform that grounds Google Search AI experiences, Gemini and Cloud.
 
-"I solve complex information challenges and build delightful AI experiences by bridging deep technical strategy with user-centric design."
+5+ years at Google turning messy, unstructured data (video, images, spreadsheets and billion-scale search indices) into clean product primitives and intuitive AI experiences. Trained in Systems Engineering; pairs hands-on technical execution (SQL, Python/LLM evaluation pipelines, agentic prototyping) with 0-to-1 product strategy.
 
 ## Experience
 
-- Google, AI Foundations — Product Manager, Zurich (Oct 2026–present): retrieval and context systems for AI.
-- Google, YouTube Shopping — Product Manager, Zurich (Mar 2024–Oct 2026): product detection with Gemini-based multimodal models (AI precision 11% → 35.5%), Interactive TV Shopping (+6000% product engagement on TV), auto-timestamps.
-- Google Sheets — Product Manager, London (Jul 2022–Mar 2024): led Tables in Google Sheets from 0 to 1, Conditional Notifications, Apps Script & GenAI strategy.
-- Google Maps — Associate Product Manager, New York (Aug 2019–Oct 2022): Maps visual search, Street View 15th anniversary (6M+ opt-ins, 16M+ virtual trips).
-- Globant — Tech Lead for Disney Parks, Córdoba: team of 6, Java/Spring.
-- Intel McAfee — internal IoT monitoring site (Angular).
-- Girls Who Code — lead instructor.
+- Google, Context & Retrieval, AI Foundations — Product Manager, Zurich (Oct 2026–present): product strategy for a distributed hybrid and vector retrieval platform (modular RAG building blocks, query-side embedding adaptation, long-context LLM memory, personal context); competitive cloud retrieval benchmarking; agentic PM workflows.
+- Google, YouTube Shopping — Product Manager, Zurich (Mar 2024–Oct 2026): YouTube 'Ask' Gemini-powered shopping companion (>97% answer precision); multimodal video understanding with Google DeepMind (+13% shoppable corpus, 30x more videos); Gemini auto-timestamping (+5.1% offer clicks); Connected TV commerce and checkout (+11.5% engagement); mobile product overlays (−44% dismissals); Gemini financial reasoning evals (20% project).
+- Google Sheets (Workspace) — Product Manager, London (Jul 2022–Mar 2024): co-led Sheets Tables (50% adoption, +5% North Star); Conditional Notifications; enterprise data analytics roadmap.
+- Google Maps — Associate Product Manager, New York (Jun 2021–Jul 2022): Maps Visual Search from Street View imagery; ML service-menu photos (20% interaction rate); India Language Picker (+12% MAU). APM intern on Google Docs (2020).
+- Earlier: NYU Furman Center data researcher (2021); Globant for Disney Parks, Technical Lead (2018–2019); Intel McAfee software developer intern (2016–2017).
 
-## Education
+## Education and awards
 
-- MS in Management of Technology, New York University — Fulbright Scholar; MoT Capstone award.
-- BS in Systems Engineering, Universidad Tecnológica Nacional (UTN-FRC), Córdoba, Argentina.
+- MS in Management of Technology and Innovation, New York University (3.9 GPA) — Fulbright Scholar; NYU Research Innovation Award (1st of 25+ capstone teams).
+- BS in Systems Engineering, Universidad Tecnológica Nacional (UTN-FRC), Córdoba, Argentina (9.22/10) — Argentina's Bicentennial Scholarship.
+
+## Community
+
+- Google AI Champion, APM interviewer, Zurich APM intern coordinator (2024).
+- Girls Who Code lead instructor and mentor (2018–present); NYU Design for America.
 
 ## Pages
 

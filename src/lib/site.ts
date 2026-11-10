@@ -5,13 +5,13 @@
 
 export const SITE_URL = "https://gabrielacaballero.com";
 export const SITE_NAME = "Gabriela Caballero";
-export const JOB_TITLE = "Technical Product Manager";
+export const JOB_TITLE = "Technical AI Product Manager";
 
 export const TAGLINE =
   "I solve complex information challenges and build delightful AI experiences by bridging deep technical strategy with user-centric design.";
 
 export const SITE_DESCRIPTION =
-  "Gabriela Caballero is a Technical Product Manager at Google in Zurich, working on AI Foundations — the retrieval and context systems that ground AI in information. Previously YouTube Shopping, Google Sheets and Google Maps.";
+  "Gabriela Caballero is a Technical AI Product Manager at Google in Zurich, leading product strategy for Context & Retrieval in AI Foundations. 5+ years at Google across YouTube Shopping, Google Sheets and Google Maps.";
 
 export const MISSION =
   "To create bridges between technology and humanity by simplifying the complex and telling meaningful stories.";
