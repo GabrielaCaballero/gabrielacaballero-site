@@ -25,19 +25,20 @@ npm run build    # writes the static site to out/
 | What | File |
 | --- | --- |
 | Name, tagline, mission, socials, email | `src/lib/site.ts` |
-| Career timeline ("The Flight Path") | `src/lib/timeline.ts` |
-| Interviews and talks | `src/lib/media.ts` |
+| Home page: what drives me, right now | `src/lib/about.ts` |
+| Experience by team, city postcards, education | `src/lib/experience.ts` |
+| Interviews and talks ("As seen in") | `src/lib/media.ts` |
+| Downloadable CV | `public/Gabriela_Caballero_CV.pdf` |
 | Summary for AI assistants | `public/llms.txt` (keep in sync) |
 | Photos | `public/photos/` (WebP, ≤1100px wide) |
 
 ## Pages
 
-- `/` About, with the "Enter latent space" mini-game (works with keyboard and touch)
-- `/experience` career timeline; "Dive deeper" uses native `<details>` so it's in the HTML
-- `/media` interviews and talks
+- `/` About: who I am, what drives me, right now, as seen in, and the "Enter latent space" mini-game
+- `/experience` roles by team with a postcard from each city; "Dive deeper" uses native `<details>` so it's in the HTML
 - `/contact` socials, copy-email, feedback form
 
-Old URLs `/projects` and `/interviews` redirect to the new ones via `vercel.json`; `/blog` points to Substack.
+Old URLs `/projects`, `/interviews` and `/media` redirect via `vercel.json`; `/blog` points to Substack.
 
 ## SEO / AI readability
 

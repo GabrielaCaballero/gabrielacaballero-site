@@ -7,17 +7,18 @@ export const SITE_URL = "https://gabrielacaballero.com";
 export const SITE_NAME = "Gabriela Caballero";
 export const JOB_TITLE = "Technical AI Product Manager";
 
+// One-line positioning, distilled from Gabriela's Ikigai: research and
+// synthesis + explaining technical things + AI that works for everyone.
 export const TAGLINE =
-  "I solve complex information challenges and build delightful AI experiences by bridging deep technical strategy with user-centric design.";
+  "I make AI useful and understandable — building the retrieval systems that ground it, and telling the stories that help everyone benefit from it, not just the most technical.";
 
 export const SITE_DESCRIPTION =
-  "Gabriela Caballero is a Technical AI Product Manager at Google in Zurich, leading product strategy for Context & Retrieval in AI Foundations. 5+ years at Google across YouTube Shopping, Google Sheets and Google Maps.";
+  "Gabriela Caballero is a Technical AI Product Manager at Google in Zurich, working on the retrieval and context systems that ground Google's AI. Previously YouTube Shopping, Google Sheets and Google Maps.";
 
-export const MISSION =
-  "To create bridges between technology and humanity by simplifying the complex and telling meaningful stories.";
-
-export const VISION =
-  "I envision a future where technology evolves into an intuitive, active partner, anticipating our needs and augmenting human potential.";
+// Public-safe version of the CV (same rules as src/lib/experience.ts: no
+// internal metrics or system details). To update, replace the PDF file in
+// /public with a new export under the same name.
+export const CV_PATH = "/Gabriela_Caballero_CV.pdf";
 
 // Email is copied by a button rather than rendered as a mailto: link, so it
 // isn't sitting in the static HTML for address-harvesting bots. The phone
@@ -39,6 +40,5 @@ export const FEEDBACK_FORM_URL =
 export const NAV_LINKS = [
   { href: "/", label: "About" },
   { href: "/experience", label: "Experience" },
-  { href: "/media", label: "Media" },
   { href: "/contact", label: "Contact" },
 ];

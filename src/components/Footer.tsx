@@ -18,8 +18,7 @@ export default function Footer() {
         ))}
       </ul>
       <p className="text-xs text-muted-foreground">
-        © {new Date().getFullYear()} Gabriela Caballero · Zurich ·{" "}
-        <span className="italic">XOXO — Gossip Girl</span>
+        © {new Date().getFullYear()} Gabriela Caballero · Zurich
       </p>
     </footer>
   );
