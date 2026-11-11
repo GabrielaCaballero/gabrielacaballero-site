@@ -16,7 +16,12 @@ export default function Navbar() {
     <header className="fixed inset-x-0 top-0 z-50 border-b border-border bg-background/80 backdrop-blur">
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-5 py-4">
         <Link href="/" className="flex items-center gap-3" onClick={() => setOpen(false)}>
-          <span className="h-8 w-8 rounded-lg bg-gradient-to-br from-primary to-primary-strong" />
+          <span
+            aria-hidden
+            className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-br from-primary to-primary-strong font-display text-sm font-bold tracking-tight text-primary-foreground"
+          >
+            GC
+          </span>
           <span className="font-display text-xl font-bold tracking-wide">GABRIELA</span>
         </Link>
 
